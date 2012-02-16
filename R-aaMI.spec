@@ -12,7 +12,7 @@ Source0:          http://cran.r-project.org/src/contrib/Archive/aaMI/aaMI_1.0-1.
 BuildArch:        noarch
 Requires:         R-core
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
-
+%rename R-cran-aaMI
 
 %description
 This package contains five functions. read.FASTA reads in a FASTA-format
