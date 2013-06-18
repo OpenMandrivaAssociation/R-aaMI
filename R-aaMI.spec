@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0_1
-Release:          1
+Release:          2
 Summary:          Mutual information for protein sequence alignments
 Group:            Sciences/Mathematics
 License:          GPL version 2 or newer
