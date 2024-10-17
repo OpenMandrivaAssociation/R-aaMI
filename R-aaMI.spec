@@ -7,7 +7,7 @@ Release:          3
 Summary:          Mutual information for protein sequence alignments
 Group:            Sciences/Mathematics
 License:          GPL version 2 or newer
-URL:              http://cran.r-project.org/web/packages/aaMI/index.html
+URL:              https://cran.r-project.org/web/packages/aaMI/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/aaMI/aaMI_1.0-1.tar.gz
 BuildArch:        noarch
 Requires:         R-core
